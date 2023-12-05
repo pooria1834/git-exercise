@@ -1,7 +1,5 @@
+
 #include<stdio.h>
 int calculate(int a, int b)
 {
-return a+2*b;
-
-}
-
+return 100*a+b;}
